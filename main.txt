@@ -1,4 +1,0 @@
-Title: Git for Everyone
-
-area
-subtitle : yes
